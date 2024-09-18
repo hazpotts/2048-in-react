@@ -1,5 +1,6 @@
 # 2048-in-react
 
+
 [![Open issues][issues-badge]][issues-url]
 [![CI][lint-badge]][lint-url]
 [![CI][test-badge]][test-url]
